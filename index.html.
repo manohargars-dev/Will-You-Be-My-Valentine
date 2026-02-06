@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Be My Valentine?</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ4ZzZueXN6ZzZueXN6ZzZueXN6ZzZueXN6ZzZueXN6ZzZueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLS1cfxvGOPVpf9g3y/giphy.gif" alt="Cute Cat">
+        <h1>Will you be my Valentine?</h1>
+        <div class="buttons">
+            <button id="yesBtn" onclick="celebrate()">Yes</button>
+            <button id="noBtn" onmouseover="moveButton()">No</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
