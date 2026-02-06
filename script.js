@@ -11,6 +11,6 @@ function moveButton() {
 }
 
 function celebrate() {
-    alert("YAY! I knew you'd say yes! ❤️");
+    alert("YAY! I knew you'd say yes my love! ❤️");
     // You could also redirect to a cute video or change the image here
 }
