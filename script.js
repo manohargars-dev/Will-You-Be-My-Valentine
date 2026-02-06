@@ -1,4 +1,4 @@
-const yesBtn = document.querySelector(".yes-btn");
+const yesBtn = document.getElementById("yesBtn"); (Note: No dot, and it uses getElementById);
 
 yesBtn.addEventListener("click", () => {
   // Create the custom pop-up box
